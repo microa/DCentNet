@@ -1,6 +1,6 @@
-// ¶¨ÒåD2¿ÚÎªÍâ²¿ÖÐ¶Ï¿Ú
+// å®šä¹‰D2å£ä¸ºå¤–éƒ¨ä¸­æ–­å£
 const int interruptPin = 2;
-// ¶¨ÒåLED×´Ì¬±êÖ¾
+// å®šä¹‰LEDçŠ¶æ€æ ‡å¿—
 volatile bool ledState = false;
 
 
@@ -9,12 +9,12 @@ volatile bool ledState = false;
 
 
 void setup() {
-  // ³õÊ¼»¯´®ÐÐÍ¨ÐÅ
-  // ÉèÖÃLEDÎªÊä³ö
+  // åˆå§‹åŒ–ä¸²è¡Œé€šä¿¡
+  // è®¾ç½®LEDä¸ºè¾“å‡º
   pinMode(LED_BUILTIN, OUTPUT);
-  // ÉèÖÃD2¿ÚÎªÊäÈë
+  // è®¾ç½®D2å£ä¸ºè¾“å…¥
   pinMode(interruptPin, INPUT_PULLUP);
-  // ÅäÖÃÍâ²¿ÖÐ¶Ï£¬µ±D2¿Ú¼ì²âµ½ÏÂ½µÑØÊ±£¬µ÷ÓÃinterruptRoutine
+  // é…ç½®å¤–éƒ¨ä¸­æ–­ï¼Œå½“D2å£æ£€æµ‹åˆ°ä¸‹é™æ²¿æ—¶ï¼Œè°ƒç”¨interruptRoutine
   attachInterrupt(digitalPinToInterrupt(interruptPin), interruptRoutine, FALLING);
 
   digitalWrite(PIN_ENABLE_SENSORS_3V3, LOW);
@@ -38,16 +38,16 @@ void loop() {
   NRF_POWER->SYSTEMOFF = 1;
 }
 
-// ÖÐ¶Ï·þÎñÀý³Ì
+// ä¸­æ–­æœåŠ¡ä¾‹ç¨‹
 void interruptRoutine() {
-  loop(); // ÇÐ»»LED×´Ì¬
+  loop(); // åˆ‡æ¢LEDçŠ¶æ€
 }
 
 int main(void){
   init();
   initVariant();
 
-  //Disabling UART0 (saves around 300-500¦ÌA)
+  //Disabling UART0 (saves around 300-500Î¼A)
   NRF_UART0->TASKS_STOPTX = 1;
   NRF_UART0->TASKS_STOPRX = 1;
   NRF_UART0->ENABLE = 0;
