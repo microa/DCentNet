@@ -1,6 +1,8 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
-### Trained models <br>
+### Exp for Arduino<br>
+
+
 
 ### Deploy in Embedded System <br>
 
@@ -8,8 +10,8 @@
 
 
 
-<br>
-* If you find our article is useful to your research, please cite following papers:
+
+* If you find our article is useful to your research, please cite following papers: <br>
 <!-- 
 ```bibtex
 @inproceedings{xiaolin2024,
