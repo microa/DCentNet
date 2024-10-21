@@ -1,11 +1,11 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
-### Trained models
-<br>
-## Deploy in Embedded System
-<br>
-## Code
-<br>
+### Trained models <br>
+
+### Deploy in Embedded System <br>
+
+### Code <br>
+
 
 
 <br>
