@@ -1,11 +1,14 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
 ### Sorry for the mess and untranslated details, I would re-arrange everything later <br>
-<br>
+
 ### Exp for Arduino <br>
-Deep sleep mode: [Code](Code/DeepSleep(idle_mode).cpp) <br>
+Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
+Inference mode: [code](Code/bk_vtx001_noBLE_Infer_noidle.cpp) <br>
+Inference idle mode: [code](Code/bk_vtx001_noBLE_Infer_idle.cpp) <br>
 
 
+ 
 ### Deploy in Embedded System <br>
 
 ### Code <br>
