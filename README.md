@@ -8,6 +8,7 @@
 
 
 * If you find our article is useful to your research, please cite following papers:
+<!-- 
 ```bibtex
 @inproceedings{xiaolin2024,
   title={Decentralized Multistage Biomedical Signal Classification using Early Exits},
@@ -18,3 +19,4 @@
   organization={NONE}
 }
 ```
+-->
