@@ -1,7 +1,7 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
 ### Exp for Arduino<br>
-
+Deep sleep mode: [Code](Code/Deep Sleep(idle mode).cpp)
 
 
 ### Deploy in Embedded System <br>
