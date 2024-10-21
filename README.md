@@ -1,18 +1,21 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
-### Sorry for the mess and untranslated details, I would re-arrange everything later <br>
+### Sorry for the mess and untranslated details, I would re-arrange everything ASAP <br>
 
 ### Experimental Code <br>
 Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
 Inference mode: [code](Code/bk_vtx001_noBLE_Infer_noidle.cpp) <br>
 Inference idle mode: [code](Code/bk_vtx001_noBLE_Infer_idle.cpp) <br>
+Connected mode: [code](Code/bk_vtx001a_connected_noinfer_idle_keepconnected.cpp) <br>
 
-
+### Training Code <br>
+To be continue... <br>
  
 ### Deploy in Embedded System <br>
+To be continue... <br>
 
-### Code <br>
-
+### Replicate Guide <br>
+To be continue... <br>
 
 
 
