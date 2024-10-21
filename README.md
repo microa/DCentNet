@@ -1,6 +1,6 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
-<font color="red">Sorry for the mess and untranslated details, I would re-arrange everything ASAP </font> <br>
+<span style="color:blue; font-size:20px">Sorry for the mess and untranslated details, I would re-arrange everything ASAP </span> <br>
 
 ### Experimental Code <br>
 Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
