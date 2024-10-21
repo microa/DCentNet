@@ -1,2 +1,2 @@
-## Decentralized Multistage Biomedical Signal Classification using Early Exits
+## DSCEE
 ### to be continue...
