@@ -1,7 +1,5 @@
 ## Decentralized Multistage Biomedical Signal Classification using Early Exits
 
-### Sorry for the mess and untranslated details, I would re-arrange everything ASAP <br>
-
 ### Experimental Code <br>
 Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
 Inference mode: [code](Code/bk_vtx001_noBLE_Infer_noidle.cpp) <br>
@@ -32,3 +30,5 @@ To be continue... <br>
 }
 ```
 -->
+
+### Sorry for the mess and untranslated details, I would re-arrange everything ASAP <br>
