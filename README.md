@@ -18,6 +18,9 @@ To be continue... <br>
 
 
 * If you find our article is useful to your research, please cite following papers: <br>
+```
+Once the paper is accepted, we will release the citation details.
+```
 <!-- 
 ```bibtex
 @inproceedings{xiaolin2024,
@@ -31,4 +34,3 @@ To be continue... <br>
 ```
 -->
 
-### Sorry for the mess and untranslated details, I would re-arrange everything ASAP <br>
