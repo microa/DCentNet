@@ -10,7 +10,11 @@ Connected mode: [code](Code/bk_vtx001a_connected_noinfer_idle_keepconnected.cpp)
 To be continue... <br>
  
 ### Deploy in Embedded System <br>
-To be continue... <br>
+Trained model: [2Layerswith96%Acc.zip](inference/2Layerswith96%Acc.zip) <br>
+Step1. Launch Arduino IDE (my version is 2.3.3)
+Step2. Sketch -> Include Library -> Add .ZIP Library -> (add above trained model)
+Step3. Tools -> Manage Libraries -> search "ArduinoBLE" -> install (my version is 1.3.7)
+Step4. Include the inference file on your code (code example provided above, see Experimental Code - Inference mode)
 
 ### Replicate Guide <br>
 To be continue... <br>
