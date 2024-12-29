@@ -28,6 +28,7 @@ To be continue... <br>
 
 
 * If you find our article is useful to your research, please cite following papers: <br>
+<!-- 
 ```bibtex
 @inproceedings{xiaolin2024,
   title={DCentNet: Decentralized Multistage Biomedical Signal Classification using Early Exits},
@@ -38,10 +39,10 @@ To be continue... <br>
   organization={NONE}
 }
 ```
+-->
 
-<!-- 
 ```
 Once the paper is accepted, we will release the citation details.
 ```
--->
+
 
