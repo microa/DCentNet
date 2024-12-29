@@ -1,4 +1,4 @@
-## DCentNet: Decentralized Multistage Biomedical Signal Classification using Early Exits
+## DCentNet (Decentralized Signal Classification using Early Exit)
 
 ### Experimental Code <br>
 Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
