@@ -5,6 +5,7 @@ Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
 Inference mode: [code](Code/bk_vtx001_noBLE_Infer_noidle.cpp) <br>
 Inference idle mode: [code](Code/bk_vtx001_noBLE_Infer_idle.cpp) <br>
 Connected mode: [code](Code/bk_vtx001a_connected_noinfer_idle_keepconnected.cpp) <br>
+Broadcast mode: [code](Code/bk_v009a_2DenseOutput_Broadcast_realclass.cpp). <br> 
  
 ### Deploy in Embedded System <br>
 Trained model: [2Layerswith96%Acc.zip](inference/2Layerswith96%Acc.zip) <br>
