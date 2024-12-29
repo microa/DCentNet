@@ -1,4 +1,4 @@
-## DSCEE (Decentralized Signal Classification using Early Exit)
+## DCentNet: Decentralized Multistage Biomedical Signal Classification using Early Exits
 
 ### Experimental Code <br>
 Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
