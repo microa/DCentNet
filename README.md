@@ -28,19 +28,20 @@ To be continue... <br>
 
 
 * If you find our article is useful to your research, please cite following papers: <br>
-```
-Once the paper is accepted, we will release the citation details.
-```
-<!-- 
 ```bibtex
 @inproceedings{xiaolin2024,
-  title={Decentralized Multistage Biomedical Signal Classification using Early Exits},
+  title={DCentNet: Decentralized Multistage Biomedical Signal Classification using Early Exits},
   author={Xiaolin Li, Binhua Huang, Barry Cardiff, Deepu John},
-  booktitle={Has not been accepted by any journal yet},
+  booktitle={Biomedical Signal Processing and Control},
   pages={100--120},
   year={2024},
   organization={NONE}
 }
+```
+
+<!-- 
+```
+Once the paper is accepted, we will release the citation details.
 ```
 -->
 
