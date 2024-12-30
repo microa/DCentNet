@@ -20,10 +20,12 @@ Alternative trained models: <br>
 [EEPS-5LayerCNN.zip](inference/EEPS-5LayerCNN.zip) <br>
 
 ### Training Code <br>
-To be continue... <br>
+[code](Code/eeps-train.ipynb) <br>
+To use the training code, you need to register on Edge Impulse and obtain an API key (free for personal use). <br>
+Once you have the API key, replace the placeholder in the code with it. <br> 
 
 ### Replicate Guide <br>
-To be continue... <br>
+Q0. If I receive any questions via email, I will solve them and update them here. <br>
 
 
 
