@@ -20,7 +20,7 @@ Alternative trained models: <br>
 [EEPS-5LayerCNN.zip](inference/EEPS-5LayerCNN.zip) <br>
 
 ### Training Code <br>
-Easiest version: [code](Code/eeps-train.ipynb) <br>
+Simple version: [code](Code/eeps-train.ipynb) <br>
 To use the training code, you need to register on Edge Impulse and obtain an API key (free for personal use). <br>
 Once you have the API key, replace the placeholder in the code with it. <br> 
 And you can also replace the network for your own use. <br> 
