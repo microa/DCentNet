@@ -27,7 +27,7 @@ And you can also replace the network for your own use. <br>
 Enjoy it! <br> 
 
 ### Replicate Guide <br>
-Q0. If I receive any questions via email, I will solve them and update them here. <br>
+Q0. If I receive any questions via email(bh.huang@ieee.org), I will solve them and update them here. <br>
 
 
 
