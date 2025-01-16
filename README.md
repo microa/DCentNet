@@ -34,15 +34,15 @@ Q0. If I receive any questions via email, I will solve them and update them here
 * If you find our article is useful to your research, please cite following papers: <br>
 ```bibtex
 @article{LI2025107468,
-title = {DCentNet: Decentralized multistage biomedical signal classification using early exits},
-journal = {Biomedical Signal Processing and Control},
-volume = {104},
-pages = {107468},
-year = {2025},
-issn = {1746-8094},
-doi = {https://doi.org/10.1016/j.bspc.2024.107468},
-url = {https://www.sciencedirect.com/science/article/pii/S174680942401526X},
-author = {Xiaolin Li and Binhua Huang and Barry Cardiff and Deepu John},
+  title = {DCentNet: Decentralized multistage biomedical signal classification using early exits},
+  journal = {Biomedical Signal Processing and Control},
+  volume = {104},
+  pages = {107468},
+  year = {2025},
+  issn = {1746-8094},
+  doi = {https://doi.org/10.1016/j.bspc.2024.107468},
+  url = {https://www.sciencedirect.com/science/article/pii/S174680942401526X},
+  author = {Xiaolin Li and Binhua Huang and Barry Cardiff and Deepu John},
 }
 ```
 
