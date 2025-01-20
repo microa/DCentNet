@@ -19,8 +19,6 @@
 - **Broadcast Mode**:  
   [Code: `bk_v009a_2DenseOutput_Broadcast_realclass.cpp`](Code/bk_v009a_2DenseOutput_Broadcast_realclass.cpp)
 
----
-
 #### 2. Receiver (BLE)
 
 - **Connected Mode**:  
@@ -29,31 +27,51 @@
 - **Broadcast Mode**:  
   _(Code reference not provided)_
 
+---
  
-### Deploy in Embedded System <br>
-Trained model: [2Layerswith96%Acc.zip](inference/2Layerswith96%Acc.zip) <br>
-Step1. Launch Arduino IDE (my version is 2.3.3) <br>
-Step2. Sketch -> Include Library -> Add .ZIP Library -> (add above trained model) <br>
-Step3. Tools -> Manage Libraries -> search "ArduinoBLE" -> install (my version is 1.3.7) <br>
-Step4. Include the inference file on your code (code example provided above, see Experimental Code - Inference mode) <br>
-Alternative trained models: <br>
-[EEPS-2LayerCNN.zip](inference/EEPS-2LayerCNN.zip) <br>
-[EEPS-3LayerCNN.zip](inference/EEPS-3LayerCNN.zip) <br>
-[EEPS-4LayerCNN.zip](inference/EEPS-4LayerCNN.zip) <br>
-[EEPS-5LayerCNN.zip](inference/EEPS-5LayerCNN.zip) <br>
+### Deploy in Embedded System
 
-### Training Code <br>
-Simple version: [code](Code/eeps-train.ipynb) <br>
-To use the training code, you need to register on Edge Impulse and obtain an API key (free for personal use). <br>
-Once you have the API key, replace the placeholder in the code with it. <br> 
-And you can also replace the network for your own use. <br> 
-Enjoy it! <br> 
+- **Trained Model**:  
+  [Download: `2Layerswith96%Acc.zip`](inference/2Layerswith96%Acc.zip)
+
+#### Steps for Deployment:
+1. Launch Arduino IDE (Version used: `2.3.3`).
+2. Navigate to `Sketch` -> `Include Library` -> `Add .ZIP Library` -> (Add the above-trained model).
+3. Go to `Tools` -> `Manage Libraries` -> Search for "ArduinoBLE" -> Install (Version used: `1.3.7`).
+4. Include the inference file in your code (see the code example under [Experimental Code - Inference Mode](#1-inference-and-sender-ble)).
+
+#### Alternative Trained Models:
+- [EEPS-2LayerCNN.zip](inference/EEPS-2LayerCNN.zip)
+- [EEPS-3LayerCNN.zip](inference/EEPS-3LayerCNN.zip)
+- [EEPS-4LayerCNN.zip](inference/EEPS-4LayerCNN.zip)
+- [EEPS-5LayerCNN.zip](inference/EEPS-5LayerCNN.zip)
+
+---
+
+### Training Code
+
+- **Simple Version**:  
+  [Code: `eeps-train.ipynb`](Code/eeps-train.ipynb)
+
+#### Instructions:
+- Register on Edge Impulse and obtain an API key (free for personal use).
+- Replace the placeholder in the training code with your API key.
+- You can customize and replace the network for your specific use case.  
+
+Enjoy training your model!
+
+---
 
 ### Replicate Guide <br>
-Q0. If I receive any questions via email(bh.huang@ieee.org), I will solve them and update them here. <br>
+- **Support**:  
+  If you have any questions, feel free to email me at [bh.huang@ieee.org](mailto:bh.huang@ieee.org). I will address your questions and update the guide as needed.
 
 
+---
 
+### Citation
+
+- **Support**: 
 * If you find our article is useful to your research, please cite following papers: <br>
 ```bibtex
 @article{LI2025107468,
