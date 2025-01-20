@@ -1,11 +1,34 @@
 ## DCentNet (Decentralized Signal Classification using Early Exit)
 
-### Experimental Code <br>
-Deep sleep mode: [code](Code/DeepSleep(idle_mode).cpp) <br>
-Inference mode: [code](Code/bk_vtx001_noBLE_Infer_noidle.cpp) <br>
-Inference idle mode: [code](Code/bk_vtx001_noBLE_Infer_idle.cpp) <br>
-Connected mode: [code](Code/bk_vtx001a_connected_noinfer_idle_keepconnected.cpp) <br>
-Broadcast mode: [code](Code/bk_v009a_2DenseOutput_Broadcast_realclass.cpp). <br> 
+### Experimental Code
+
+#### 1. Inference and Sender (BLE)
+
+- **Deep Sleep Mode**:  
+  [Code: `DeepSleep(idle_mode).cpp`](Code/DeepSleep(idle_mode).cpp)
+
+- **Inference Mode**:  
+  [Code: `bk_vtx001_noBLE_Infer_noidle.cpp`](Code/bk_vtx001_noBLE_Infer_noidle.cpp)
+
+- **Inference Idle Mode**:  
+  [Code: `bk_vtx001_noBLE_Infer_idle.cpp`](Code/bk_vtx001_noBLE_Infer_idle.cpp)
+
+- **Connected Mode**:  
+  [Code: `bk_vtx001a_connected_noinfer_idle_keepconnected.cpp`](Code/bk_vtx001a_connected_noinfer_idle_keepconnected.cpp)
+
+- **Broadcast Mode**:  
+  [Code: `bk_v009a_2DenseOutput_Broadcast_realclass.cpp`](Code/bk_v009a_2DenseOutput_Broadcast_realclass.cpp)
+
+---
+
+#### 2. Receiver (BLE)
+
+- **Connected Mode**:  
+  _(Code reference not provided)_
+
+- **Broadcast Mode**:  
+  _(Code reference not provided)_
+
  
 ### Deploy in Embedded System <br>
 Trained model: [2Layerswith96%Acc.zip](inference/2Layerswith96%Acc.zip) <br>
