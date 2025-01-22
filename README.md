@@ -22,10 +22,10 @@
 #### 2. Receiver (BLE)
 
 - **Connected Mode**:  
-  _(Code reference not provided)_
+  _(updating...)_
 
 - **Broadcast Mode**:  
-  _(Code reference not provided)_
+  _(updating...)_
 
 ---
  
