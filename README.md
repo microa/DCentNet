@@ -25,7 +25,7 @@
   [Code: `rec.cpp`](Code/rec.cpp)
 
 - **Broadcast Mode**:  
-  _(updating...)_
+  [Code: `REC_Broadcast.cpp`](Code/REC_Broadcast.cpp)
 
 ---
  
