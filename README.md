@@ -22,7 +22,7 @@
 #### 2. Receiver (BLE)
 
 - **Connected Mode**:  
-  _(updating...)_
+  [Code: `rec.cpp`](Code/rec.cpp)
 
 - **Broadcast Mode**:  
   _(updating...)_
